@@ -82,7 +82,7 @@ def user_input(user_question):
 
 def main():
     st.set_page_config("Chat PDF")
-    st.header("GLA ChatBot Help Support 💁")
+    st.header("GLA ChatBot Help & Support 💁")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
