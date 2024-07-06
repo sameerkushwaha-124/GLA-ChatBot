@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 ## Chat bot App Gla University
-=======
 This project involves developing an interactive chatbot application using Streamlit, which integrates PDF processing capabilities and leverages Google Generative AI (Gemini Pro) for generating conversational responses. Here’s a detailed description of the project:
 
 Project Description: GLA ChatBot Help & Support
@@ -33,4 +31,3 @@ The application processes the PDFs, extracts text, and generates text chunks.
 Embeddings are created for the text chunks and stored in a FAISS vector store.
 When a user asks a question, the application searches for similar text chunks in the vector store.
 The chatbot uses the retrieved text chunks to generate a response to the user's question.
->>>>>>> c807b2e27685b072b276207a8ff0b897e02a8ecf
